@@ -1,2 +1,2 @@
-# About he program 
+# About the program 
 hello every one!!!
